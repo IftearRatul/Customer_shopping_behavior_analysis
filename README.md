@@ -53,9 +53,7 @@ Based on the analysis, insights are derived to help understand how customers sho
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
@@ -67,31 +65,10 @@ Based on the analysis, insights are derived to help understand how customers sho
 
 ---
 
-## 🚀 Future Improvements
-- Apply machine learning models to predict customer purchase behavior
-- Implement customer segmentation using clustering techniques
-- Build an interactive dashboard for data visualization
-- Deploy the analysis using a web-based data dashboard
 
 ---
 
-## 📂 Project Structure
-```
-Customer_shopping_behavior_analysis
-│
-├── data
-│   └── dataset.csv
-│
-├── notebooks
-│   └── analysis.ipynb
-│
-├── images
-│   └── visualizations
-│
-└── README.md
-```
 
----
 
 ## ▶️ How to Run the Project
 
